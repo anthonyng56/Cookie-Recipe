@@ -1,0 +1,32 @@
+body {
+	background-color: #FFE;
+}
+h1 {
+	color: purple;
+	font-size: 40px;
+	font-family: "helvetica", arial, san-serif;
+	font-weight: bold;
+	text-decoration: underline;
+}
+img {
+	border: 10px solid black;
+}
+h2 {
+	color: black;
+	font-family: "helvetica", arial, san-serif;
+	font-weight: bold;
+}
+h4 {
+	font-family: "helvetica", arial, san-serif;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: underline;
+	color: purple;
+}
+ul, ol, h5 {
+	font-family: "helvetica", arial, san-serif;
+	font-size: 20px;
+}
+a {
+	color: #900;
+}
